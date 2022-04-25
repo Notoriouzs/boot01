@@ -10,6 +10,7 @@ import java.util.List;
  * 供应商dao接口
  */
 public interface ProviderDao {
+    
 
     /**
      *
